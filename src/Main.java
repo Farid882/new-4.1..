@@ -13,8 +13,7 @@ public class Main {
         justTank.printPosition();          //1
         anywareTank.goBackward(-200);
         anywareTank.printPosition();       //2
-        customTank.goForward(201);
-        customTank.printPosition();        //3
+
 
 /*
 This fragment of code has to output
